@@ -28,6 +28,10 @@ redis32
 NVIDIA环境：cuda 10.2 CUDNN 8   开发硬件：GTX1050Ti 4GB
 ```
 
+.qiniu_pythonsdk_hostscache中设置七牛云
+
+config.py中设置数据库地址
+
 ## 智能化学平台 子模块
 
 - 荧光分析
